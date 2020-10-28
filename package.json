@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@blowstack/ckeditor-nuxt": "^0.3.2",
+    "@ckeditor/ckeditor5-build-classic": "^23.0.0",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^23.0.0",
+    "@ckeditor/ckeditor5-vue": "^1.0.3",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.17.3",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "vue-ckeditor5": "^0.5.0",
+    "vue2-editor": "^2.10.2"
+  },
+  "devDependencies": {}
+}
